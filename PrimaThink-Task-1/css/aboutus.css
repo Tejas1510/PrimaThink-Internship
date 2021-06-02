@@ -1,0 +1,80 @@
+.about-jumbotron{
+    transition: background-color 300ms ease 0ms,background-image 300ms ease 0ms;
+    background-color: #185F7A!important;
+    background-image: url(https://primathink.com/wp-content/uploads/2019/08/tech-08-1.png)!important;
+    background-position: 50%;
+    padding: 34px;
+}
+.aboutHeading{
+    font-family: 'Work Sans',Helvetica,Arial,Lucida,sans-serif;
+    font-weight: 700;
+    line-height: 1.5em;
+    color: white!important;
+    padding-bottom: 18px;
+    border-bottom: 4px solid white;
+    
+}
+.aboutPara{
+    color: white!important;
+    line-height: 150%;
+    padding-top: 28px;
+    color: white;
+} 
+
+.aboutHeading-2{
+    font-family: 'Work Sans',Helvetica,Arial,Lucida,sans-serif;
+    font-weight: 700;
+    line-height: 1.8em;
+    color: #474747!important;
+    border-bottom: 4px solid white;
+    
+}
+.aboutPara-2{
+    color: #474747!important;
+    line-height: 1.8em;
+    word-break: break-word;
+    word-wrap: break-word;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+} 
+.visionHeading{
+    font-family: 'Work Sans',Helvetica,Arial,Lucida,sans-serif;
+    font-weight: 700;
+    line-height: 1.5em;
+    color: white!important;
+    padding-bottom: 0px;
+}
+.visionPara{
+    color: white!important;
+    line-height: 150%;
+    word-break: break-word;
+    word-wrap: break-word;
+}
+.foot li{
+    border-bottom:1px solid grey;
+    margin-top: 5px;
+    padding:8px;
+}
+.foot li a{
+    color:white;
+}
+H5{
+    color:orange;
+    padding:8px;
+    font-weight: bold;
+}
+H6{
+    color:orange;
+    font-weight: bold;
+}
+.visionContainer{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-image: linear-gradient(
+180deg
+,#E09900 0%,rgba(224,43,32,0.73) 100%)!important;
+}

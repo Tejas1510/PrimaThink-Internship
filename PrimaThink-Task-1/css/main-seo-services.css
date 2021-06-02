@@ -1,0 +1,26 @@
+.mainSeoPara{
+    color: #474747!important;
+    line-height: 1.7em;
+    word-break: break-word;
+    word-wrap: break-word;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+} 
+
+.seoContainer{
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #f7f7f7!important;
+}
+
+.main-seo-heading{
+    font-family: 'Work Sans',Helvetica,Arial,Lucida,sans-serif;
+    font-weight: 700;
+    line-height: 1.7em;
+    color: #474747!important;
+    text-align: justify;
+}

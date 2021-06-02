@@ -1,0 +1,62 @@
+.smmHeading{
+    font-family: 'Work Sans',Helvetica,Arial,Lucida,sans-serif;
+    font-weight: 700;
+    color: #474747!important;
+    text-align: justify;
+    font-size: 30px;
+}
+.smmPara{
+    color: #474747!important;
+    line-height: 1.8em;
+    word-break: break-word;
+    word-wrap: break-word;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+} 
+
+.social-media-branding{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #f7f7f7!important;
+}
+
+.seo-section{
+    width: 100%;
+    background-color: #f7f7f7!important;
+    padding-top: 50px;
+    padding-bottom: 30px;
+  }
+  .get-online-container{
+    width: 70%;
+    background-image: linear-gradient(
+243deg
+,#232323 0%,#F5841E 100%);
+    border-radius: 4px 4px 4px 4px;
+    overflow: hidden;
+    padding: 30px;
+  }
+
+  .contact-btn{
+    background-color: white;
+    color: black;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 40px;
+    font-size: 12px;
+    float: right;
+    font-weight: bolder;
+  }
+  .contact-btn:hover{
+    color: blue;
+  }
+  .seoHeading{
+    font-family: 'Montserrat',Helvetica,Arial,Lucida,sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: #473737;
+}
